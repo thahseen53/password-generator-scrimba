@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    background:#273549;
+    color:#F0F9FF;
+   
+}
+.main{
+    width:400px;
+    margin:100px 40px 10px;
+    padding-bottom: 50px;
+    border-bottom: 2px solid #374151;
+}
+.main-span{
+    display: block;
+    color:#55F991;
+}
+button{
+    background: #10B981;
+    padding: 8px 12px;
+    border: none;
+    border-radius: 5px;
+    color: #F0F9FF
+}
+.result{
+    margin:30px;
+    text-align: center;
+    color:#10B981;
+}
+.result-span{
+    margin:8px;
+    background: #374151;
+    padding:10px 75px;
+    border-radius: 8px;
+    
+}
